@@ -8,3 +8,9 @@ Click on the FREE version and register for an API key
 
 ## Step 2
 Go to api.py file - add you API key in to the 'X-CMC_PRO_API_KEY' part for both functions in the file
+
+## Step 3
+Install the required Python Libraries
+
+pip install flask
+pip install requests
