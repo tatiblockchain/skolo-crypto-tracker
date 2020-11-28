@@ -13,4 +13,5 @@ Go to api.py file - add you API key in to the 'X-CMC_PRO_API_KEY' part for both 
 Install the required Python Libraries
 
 pip install flask
+
 pip install requests
